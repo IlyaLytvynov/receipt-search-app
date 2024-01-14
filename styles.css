@@ -78,7 +78,6 @@ form > button {
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
-
 .item-wrapper img{
   max-width: 100%;
   width: 100%
